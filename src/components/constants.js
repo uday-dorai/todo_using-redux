@@ -1,0 +1,4 @@
+export const ADD_TODO = 'ADD_TODO'
+export const ADD_TODO_REDUCER = 'ADD_TODO_REDUCER'
+export const DELETE_TODO = 'DELETE_TODO'
+export const DELETE_TODO_REDUCER = 'DELETE_TODO_REDUCER'
